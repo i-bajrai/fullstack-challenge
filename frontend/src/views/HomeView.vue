@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ApiTest from "@/components/ApiTest.vue";
+import UserWeather from "@/components/UserWeather.vue";
 </script>
 
 <template>
-  <main>
-    <api-test></api-test>
+  <main class="p-4">
+    <user-weather></user-weather>
   </main>
 </template>
